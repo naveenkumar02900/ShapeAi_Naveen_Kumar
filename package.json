@@ -1,15 +1,15 @@
 {
-   "author": "Naveen Kumar L",
-   "dependencies": {
-      "body-parser": "^1.19.0",
-      "express": "^4.17.1"
-   },
-   "description": "My first node and Express Server BMI Calculator",
-   "license": "ISC",
-   "main": "sever.js",
-   "name": "calculator",
-   "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-   },
-   "version": "1.0.0"
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "My first node and Express Server BMI Calculator",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naveen Kumar L",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
 }
